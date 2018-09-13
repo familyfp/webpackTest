@@ -1,0 +1,1 @@
+document.getElementById('webpack').innerHTML = "hello webpack!!"
